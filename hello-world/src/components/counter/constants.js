@@ -1,0 +1,11 @@
+const INCREMENT = 'INCREMENT';
+const DECREMENT = 'DECREMENT';
+const TOGGLE_COUNTER = 'TOGGLE_COUNTER';
+const SET = 'SET';
+
+export {
+    INCREMENT,
+    DECREMENT,
+    TOGGLE_COUNTER,
+    SET
+};
